@@ -1,2 +1,2 @@
 # talking-clock
- returns string version of 24hour time
+ returns word version of 24hour time
